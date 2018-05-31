@@ -4,21 +4,16 @@
 
 
 
-<test name="Learning assertions">
-    <classes>
-        <class name="DrySession11.Testng.UsingAssertions" ></class>
-    </classes>
-</test>
 
 <test name="Application Login">
     <classes>
-        <class name="DrySession11.Testng.LoginTest" ></class>
+        <class name="com.pega.Session11.a_LOG4JApi.MavenTestng" ></class>
     </classes>
 </test>
 
 <test name="Selling Books">
     <classes>
-        <class name="DrySession11.Testng.SellItemsTest" ></class>
+        <class name="com.pega.Session11.a_LOG4JApi.MavenTestng" ></class>
     </classes>
 </test>
 
