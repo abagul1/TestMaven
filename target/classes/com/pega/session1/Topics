@@ -1,0 +1,68 @@
+Questions
+What is Selenium?
+What are the contents that we will cover in the sessions?
+Is Selenium IDE enough?
+How much Java is required?
+I want to learn selenium for ….
+How tough is selenium?
+How much time is required to learn Selenium
+
+Sessions -1
+Topics
+JAVA Introduction
+
+//
+What is Core Java?
+What does terms like JDK, JRE or JVM mean in java programming language?
+What is the difference between JDK, JRE and JVM?
+From which very website or through which very URL can I install latest version of JDK or JRE?
+What is IDE?
+From which very website or through which very URL can I install latest version of IDE?
+What are primitive and reference data types in java programming language?
+What is a package?
+Why and when a package needs to be created as part of java based application?
+How a package is created?
+What is a class?
+Why and when a class needs to be created as part of java based application?
+How a class is created?
+//
+
+
+-Selenium Overview
+-Installing Java : Last session
+-Installing IntelliJ IDE (Integrated Development Env)
+-Examples of IDE, Eclipse, NetBeans IntelliJ, RAD(Rapid application development), STS(Spring suite tool)
+Features of Java
+
+-Data Types:  There are two different Datas types: They act as building blocks for data manipulation, main purpose is to contain pure simple value of one of its kind.
+
+  Primitive data type (8 primitive data types: byte,short,int,long,  float,double, char,boolean )  || Reference data type
+
+What are variables:they are nothing but a reserved memory locations to store value, Some space and memory
+
+Primitive data types:
+
+Byte:     -128(2^7) to 127    byte is 4 times smaller than integer     || Variables -memory allocations
+Short:    -2^15 to (2^15-1)
+int :        -2^31 to (2^31-1)
+long:      -2^63 to (2^63-1)
+
+float: default 0.0f
+double : 0.0d
+
+char 0-65535(ASCII) and bitwise \u000 to \uffff ‘A’
+boolean true/false
+
+Reference Data type: are created by defined constructors of the classes. They are used to access objects
+
+Package(is nothing but namespace that organises a set of related classes and interfaces):Creating directory/folder structure.
+
+
+Class: Nothing but a blueprint for creating different objects that defines its properties and behavior
+
+
+-Print statements
+-Examples with datatypes
+-Conditional operators
+-Comparitive operators
+-started with control flows
